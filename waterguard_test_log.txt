@@ -1,0 +1,997 @@
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 2/30s
+TOTAL EST. WATER: 4.363 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 3/30s
+TOTAL EST. WATER: 4.458 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 4/30s
+TOTAL EST. WATER: 4.552 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 5/30s
+TOTAL EST. WATER: 4.647 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 6/30s
+TOTAL EST. WATER: 4.741 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 7/30s
+TOTAL EST. WATER: 4.835 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 8/30s
+TOTAL EST. WATER: 4.930 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 9/30s
+TOTAL EST. WATER: 5.024 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 10/30s
+TOTAL EST. WATER: 5.119 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 11/30s
+TOTAL EST. WATER: 5.213 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 12/30s
+TOTAL EST. WATER: 5.308 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 13/30s
+TOTAL EST. WATER: 5.402 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 14/30s
+TOTAL EST. WATER: 5.496 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 15/30s
+TOTAL EST. WATER: 5.591 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 16/30s
+TOTAL EST. WATER: 5.685 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 17/30s
+TOTAL EST. WATER: 5.780 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 18/30s
+TOTAL EST. WATER: 5.874 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 19/30s
+TOTAL EST. WATER: 5.969 L
+---------------------------------------------------
+WARNING: LONG WATER USAGE (20s)
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 21/30s
+TOTAL EST. WATER: 6.063 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 21/30s
+TOTAL EST. WATER: 6.158 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 22/30s
+TOTAL EST. WATER: 6.252 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 23/30s
+TOTAL EST. WATER: 6.346 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 24/30s
+TOTAL EST. WATER: 6.441 L
+---------------------------------------------------
+CRITICAL: APPROACHING AUTO SHUTOFF (25s)
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 26/30s
+TOTAL EST. WATER: 6.535 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 26/30s
+TOTAL EST. WATER: 6.630 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 27/30s
+TOTAL EST. WATER: 6.724 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 5.67 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: OFF
+PROTECTION TIMER: 28/30s
+TOTAL EST. WATER: 6.819 L
+---------------------------------------------------
+
+---------------- LEAK SIMULATION ----------------
+LEAK SIM: ON
+EXISTING TIMER CONTINUES - NOT RESET BY LEAK
+-------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=3.30 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 5.67 L/min
+MEASURED FLOW: 7.17 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 29/30s
+TOTAL EST. WATER: 6.938 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=5.67 L/min | MEASURED=7.17 L/min | EXTRA=1.50 L/min
+
+================ AUTO SHUTOFF ================
+PROTECTION TIME EXCEEDED
+POSSIBLE LEAK / ABNORMAL CONTINUOUS FLOW
+COMMON SOLENOID VALVE: CLOSED
+ALL TAP FLOW STOPPED
+RESTART MODE ARMED: MOVE ONE KNOB -> ONLY THAT TAP RESTARTS
+ROTATE A TAP KNOB TO REQUEST A NEW START
+PRESS RESET FOR MANUAL OVERRIDE
+===============================================
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=0.00 V | CMD=OFF
+V1 + V2 + V3 = 0.00 V
+EXPECTED FLOW: 0.00 L/min
+MEASURED FLOW: 0.00 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: CLOSED
+ALARM: ACTIVE
+LEAK SIM: ON
+PROTECTION TIMER: 0/30s
+TOTAL EST. WATER: 7.058 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=0.00 V | CMD=OFF
+V1 + V2 + V3 = 0.00 V
+EXPECTED FLOW: 0.00 L/min
+MEASURED FLOW: 0.00 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: CLOSED
+ALARM: ACTIVE
+LEAK SIM: ON
+PROTECTION TIMER: 0/30s
+TOTAL EST. WATER: 7.058 L
+---------------------------------------------------
+
+================ RESET BUTTON PRESSED ================
+COMMON SOLENOID VALVE: OPEN
+ALARM CLEARED
+RESET LED: ON (1s)
+========================================================
+TIMER START/RESET -> 0/30s | REASON: RESET button
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 0/30s
+TOTAL EST. WATER: 7.298 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 1/30s
+TOTAL EST. WATER: 7.539 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 2/30s
+TOTAL EST. WATER: 7.779 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 3/30s
+TOTAL EST. WATER: 8.019 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 4/30s
+TOTAL EST. WATER: 8.259 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 5/30s
+TOTAL EST. WATER: 8.500 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 6/30s
+TOTAL EST. WATER: 8.740 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 7/30s
+TOTAL EST. WATER: 8.980 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 8/30s
+TOTAL EST. WATER: 9.220 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 9/30s
+TOTAL EST. WATER: 9.461 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 10/30s
+TOTAL EST. WATER: 9.701 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 11/30s
+TOTAL EST. WATER: 9.941 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 12/30s
+TOTAL EST. WATER: 10.181 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 13/30s
+TOTAL EST. WATER: 10.422 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 14/30s
+TOTAL EST. WATER: 10.662 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 15/30s
+TOTAL EST. WATER: 10.902 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 16/30s
+TOTAL EST. WATER: 11.142 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 17/30s
+TOTAL EST. WATER: 11.383 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 18/30s
+TOTAL EST. WATER: 11.623 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 19/30s
+TOTAL EST. WATER: 11.863 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+WARNING: LONG WATER USAGE (20s)
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 20/30s
+TOTAL EST. WATER: 12.103 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 21/30s
+TOTAL EST. WATER: 12.344 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 22/30s
+TOTAL EST. WATER: 12.584 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 23/30s
+TOTAL EST. WATER: 12.824 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 24/30s
+TOTAL EST. WATER: 13.064 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+CRITICAL: APPROACHING AUTO SHUTOFF (25s)
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 25/30s
+TOTAL EST. WATER: 13.305 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 26/30s
+TOTAL EST. WATER: 13.545 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 27/30s
+TOTAL EST. WATER: 13.785 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 28/30s
+TOTAL EST. WATER: 14.025 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=1.04 V | CMD=ACTIVE
+TAP B: 63% | Pot V=2.06 V | V2=1.13 V | CMD=ACTIVE
+TAP C: 63% | Pot V=2.08 V | V3=1.14 V | CMD=ACTIVE
+V1 + V2 + V3 = 3.30 V
+EXPECTED FLOW: 12.91 L/min
+MEASURED FLOW: 14.41 L/min
+FLOW DEVIATION: 1.50 L/min
+COMMON VALVE: OPEN
+ALARM: CLEAR
+LEAK SIM: ON
+PROTECTION TIMER: 29/30s
+TOTAL EST. WATER: 14.265 L
+---------------------------------------------------
+LEAK STATUS: POSSIBLE LEAK | EXPECTED=12.91 L/min | MEASURED=14.41 L/min | EXTRA=1.50 L/min
+
+================ AUTO SHUTOFF ================
+PROTECTION TIME EXCEEDED
+POSSIBLE LEAK / ABNORMAL CONTINUOUS FLOW
+COMMON SOLENOID VALVE: CLOSED
+ALL TAP FLOW STOPPED
+RESTART MODE ARMED: MOVE ONE KNOB -> ONLY THAT TAP RESTARTS
+ROTATE A TAP KNOB TO REQUEST A NEW START
+PRESS RESET FOR MANUAL OVERRIDE
+===============================================
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=0.00 V | CMD=OFF
+V1 + V2 + V3 = 0.00 V
+EXPECTED FLOW: 0.00 L/min
+MEASURED FLOW: 0.00 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: CLOSED
+ALARM: ACTIVE
+LEAK SIM: ON
+PROTECTION TIMER: 0/30s
+TOTAL EST. WATER: 14.506 L
+---------------------------------------------------
+
+---------------- MULTI-TAP STATUS ----------------
+TAP A: 57% | Pot V=1.89 V | V1=0.00 V | CMD=OFF
+TAP B: 63% | Pot V=2.06 V | V2=0.00 V | CMD=OFF
+TAP C: 63% | Pot V=2.08 V | V3=0.00 V | CMD=OFF
+V1 + V2 + V3 = 0.00 V
+EXPECTED FLOW: 0.00 L/min
+MEASURED FLOW: 0.00 L/min
+FLOW DEVIATION: 0.00 L/min
+COMMON VALVE: CLOSED
+ALARM: ACTIVE
+LEAK SIM: ON
+PROTECTION TIMER: 0/30s
+TOTAL EST. WATER: 14.506 L
+---------------------------------------------------
